@@ -4,11 +4,9 @@
 
 Welcome to the Cookbook-Selina project! This repository contains a collection of my favorite recipes, curated and tested to perfection. Whether you're a beginner or an experienced cook, you'll find something delicious to try.
 
-
-## Table of Contents
+**Table of contents**
 
 - [Cookbook-Selina](#cookbook-selina)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Recipes](#recipes)
   - [Contributing](#contributing)

@@ -1,6 +1,9 @@
 # Cookbook-Selina
 
+![Delicious Dish](banner.png)
+
 Welcome to the Cookbook-Selina project! This repository contains a collection of my favorite recipes, curated and tested to perfection. Whether you're a beginner or an experienced cook, you'll find something delicious to try.
+
 
 ## Table of Contents
 
